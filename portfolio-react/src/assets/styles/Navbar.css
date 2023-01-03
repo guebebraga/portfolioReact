@@ -1,0 +1,30 @@
+#nav{
+    display: flex;
+    justify-content:space-around;
+    align-items: center; 
+    font-family: 'Yeon Sung', cursive;
+
+}
+
+.links{
+ display: flex;
+
+}
+.list{
+    width: 40%;
+}
+.ul{
+    display: flex;
+    justify-content: space-between;
+    list-style:none;
+    font-size:20px;
+}
+.links img{
+    width: 35px;
+    height: 35px;
+}
+.links button{
+    background-color: black;
+    border: none;
+    cursor: pointer;
+}
